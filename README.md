@@ -22,5 +22,9 @@ Here are some ideas to get you started:
 -->
 
 ### Github Stats
-
-[![pato's Github Stats](https://github-readme-stats.vercel.app/api?username=Iampato&count_private=true&theme=default&show_icons=true)](https://github.com/Iampato)
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iampato&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Iampato&count_private=true&theme=default&show_icons=true" /></td>
+  </tr>   
+</table>
