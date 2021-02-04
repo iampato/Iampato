@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on <b>Flutter, Golang & Android Development </b>
-- 🌱 I’m currently learning <b> Android & Vuejs</b>
-- 👯 I’m looking to collaborate on <b>Anything that has the name game on it</b>
+- 🌱 I’m currently learning <b> Android, Vuejs and Lavarel</b>
+- 👯 I’m looking to collaborate on <b>Anything that sounds boring</b>
 - 💬 Ask me about <b>Anything</b>
 - 📫 How to reach me: <b>Contact links are on my profile bio</b>
 
