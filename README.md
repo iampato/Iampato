@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 -->
 
 ### Github Stats
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iampato&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Iampato&count_private=true&theme=default&show_icons=true" /></td>
-  </tr>   
+
+<table cellspacing="0" cellpadding="0"  style="border-collapse: collapse; border: none;">
+  <tr  style="border-collapse: collapse; border: none;">
+      <td  style="border-collapse: collapse; border: none;"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iampato&hide=html&layout=compact" /></td>
+      <td style="border:none"><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Iampato&count_private=true&theme=default&show_icons=true" /></td>
+  </tr> 
+  <tr style="border:none">
+  <td style="border:none"> <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true&margin-w=30" /><td>
+  </tr>
 </table>
