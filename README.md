@@ -29,6 +29,6 @@ Here are some ideas to get you started:
       <td style="border:none"><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Iampato&count_private=true&theme=default&show_icons=true" /></td>
   </tr> 
   <tr style="border:none">
-  <td style="border:none"> <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true&margin-w=30" /><td>
+  <td style="border:none"> <img src="https://github-profile-trophy.vercel.app/?username=iampato&theme=flat&no-frame=true&margin-w=30" /><td>
   </tr>
 </table>
