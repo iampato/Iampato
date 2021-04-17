@@ -1,14 +1,12 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-- 🔭 I’m currently working on <b>Flutter, Golang & Android Development </b>
-- 🌱 I’m currently learning <b> Android and Typescript</b>
-- 👯 I’m looking to collaborate on <b>Anything that sounds boring</b>
-- 💬 Ask me about <b>Anything</b>
-- 📫 How to reach me: <b>Contact links are on my profile bio</b>
+Hi there :wave: I am Patrick, a Flutter Developer and Golang Enthusiasm
+
+- 🌱 I’m currently experimenting on <b> Android Jetpack Compse and Typescript</b>
 
 <!--
 **Iampato/Iampato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ### Github Stats
 
 <table cellspacing="0" cellpadding="0"  style="border-collapse: collapse; border: none;">
@@ -31,4 +29,4 @@ Here are some ideas to get you started:
   <tr style="border:none">
   <td style="border:none"> <img src="https://github-profile-trophy.vercel.app/?username=iampato&theme=flat&no-frame=true&margin-w=30" /><td>
   </tr>
-</table>
+</table>-->
