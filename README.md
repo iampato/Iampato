@@ -2,7 +2,7 @@
 
 Hi there :wave: I am Patrick, a <b>Flutter</b> Developer and <b>Golang</b> Enthusiasm
 
-- 🌱 I’m currently experimenting on Android Jetpack Compse and Typescript
+- 🌱 I’m currently experimenting on Android Jetpack Compose and Typescript
 
 <!--
 **Iampato/Iampato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
