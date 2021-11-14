@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/iampato)
 
-Hi there :wave: I am Patrick, a <b>Flutter</b> Developer and <b>Golang</b> Ninja 
+Hi there :wave: I am Patrick, a Software Engineer (mobile) 
 
 - 🌱 I’m currently experimenting on Android Jetpack Compose and Typescript
 
