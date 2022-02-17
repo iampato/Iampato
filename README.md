@@ -3,10 +3,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/iampato)
 
-Hi there :wave: I am Patrick, a Software Engineer (mobile) 
+Hi there :wave: I am Patrick, a Software Engineer 
 
 - 🌱 I’m currently experimenting on Android Jetpack Compose and Swift
-- 💬 Ask me about Flutter & Typescript
+- 💬 Ask me about Flutter, Golang & Typescript
 
 <!--
 **Iampato/Iampato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
