@@ -5,8 +5,8 @@
 
 Hi there :wave: I am Patrick, a Software Engineer (mobile) 
 
-- 🌱 I’m currently experimenting on Android Jetpack Compose and Typescript
-- 💬 Ask me about Flutter 
+- 🌱 I’m currently experimenting on Android Jetpack Compose and Swift
+- 💬 Ask me about Flutter & Typescript
 
 <!--
 **Iampato/Iampato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
