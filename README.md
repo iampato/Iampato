@@ -5,9 +5,9 @@
 
 Hi there :wave: I am Patrick, a Software Engineer 
 
-- 🌱 I’m currently experimenting on Android Jetpack Compose and Swift
-- 💬 Ask me about Flutter, Golang & Typescript
-- ⚡ Fun fact: low key very interested in blockchain technologies
+- 🌱 I’m currently experimenting with Swift
+- 💬 Ask me about Flutter, React, React Native & Typescript
+- ⚡ Fun fact: low-key very interested in blockchain technologies
 
 <!--
 **Iampato/Iampato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
