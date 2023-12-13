@@ -2,7 +2,7 @@
 
 Hi there :wave: I am Patrick, a Software Engineer 
 
-- 🌱 I’m currently experimenting with Swift
+- 🌱 I’m currently experimenting/learning with Swift
 - 💬 Ask me about Flutter, React, React Native & NodeJs
 - ⚡ Fun fact: low-key very interested in blockchain technologies
 
