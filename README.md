@@ -8,7 +8,7 @@ Hi there :wave: I am Patrick, a Software Engineer
   - Mobile: Flutter, React Native
   - Web: VueJs, ReactJs, NextJs
   - Backend: NodeJs, NestJs, ElysiaJs
-  - Ops: Terraform, k8s
+  - OPs: Terraform, k8s
     
 - ⚡ Fun fact: low-key very interested in blockchain technologies
 
