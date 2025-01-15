@@ -3,7 +3,13 @@
 Hi there :wave: I am Patrick, a Software Engineer 
 
 - 🌱 I’m currently experimenting/learning with Devops and MLOps
-- 💬 Ask me about Flutter, React, React Native & NodeJs
+- 💬 Ask me about:
+
+  - Mobile: Flutter, React Native
+  - Web: VueJs, ReactJs, NextJs
+  - Backend: NodeJs, NestJs, ElysiaJs
+  - Ops: Terraform, k8s
+    
 - ⚡ Fun fact: low-key very interested in blockchain technologies
 
 <!--
