@@ -2,7 +2,7 @@
 
 Hi there :wave: I am Patrick, a Software Engineer 
 
-- 🌱 I’m currently experimenting/learning with Devops and MLOps
+- 🌱 I’m currently mastering Devops and MLOps
 - 💬 Ask me about:
 
   - Mobile: Flutter, React Native
